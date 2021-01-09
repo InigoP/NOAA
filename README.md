@@ -1,0 +1,2 @@
+# NOAA
+Repository for master's project "Improving forecast of Great Lakes Coverage". This project consists of a team of 3 Master's students from University of Michigan , our project advisor and her post-doc, and our client contact at NOAA GLERL. This repository contains the detailed statistical methods used to construct Asian Bering North America Index and its relationship with the Great Lakes ice coverage. 
